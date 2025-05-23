@@ -1,10 +1,4 @@
-Okay, here's the updated GitHub description, now including the logo at the top of the README.
-
------
-
-\<p align="center"\>
-\<img src="txtGrad.svg" alt="textGrad Logo" width="300"/\>
-\</p\>
+![Alt text](logo_txtGrad.svg)
 
 ## textGrad: Textual Backpropagation with a User-Friendly Gradio Interface
 
