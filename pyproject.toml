@@ -1,0 +1,12 @@
+[project]
+name = "TextGrad with interface"
+version = "0.1.0"
+description = "É o textgrad porem com interface"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.31.0",
+    "litellm>=1.70.2",
+    "requests>=2.32.3",
+    "textgrad>=0.1.8",
+]
